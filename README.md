@@ -1,4 +1,3 @@
-# Reelo
 <h1 align="center" id="title">Question Paper Generator</h1>
 
 <p align="center"><img src="https://socialify.git.ci/srikanth-4567/Reelo/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
@@ -11,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://reelo-task.netlify.app/" alt="project-screenshot" width="400" height="400/">
+<img src="" alt="project-screenshot" width="400" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
