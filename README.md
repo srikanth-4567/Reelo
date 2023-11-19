@@ -41,3 +41,13 @@ npm start
 <p>5. Give the percentage of each section such as easy hard and medium</p>
 
 <p>6. Questions will be displayed as per your requirement</p>
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   NodeJS
+*   ExpressJS
+*   HTML
