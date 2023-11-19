@@ -1,0 +1,131 @@
+{
+    "questions":[
+        {
+            "question":"What is the speed of light1",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"What is the speed of light2",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"What is the speed of light3",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"What is the speed of light1",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"What is the speed of light2",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"What is the speed of light3",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"What is the speed of Wave1",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Moderate",
+            "marks": 3
+                },
+        {
+            "question":"What is the speed of Wave2",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Moderate",
+            "marks": 3
+        },
+        {
+            "question":"What is the speed of Wave3",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Moderate",
+            "marks": 3
+        },
+        {
+            "question":"What is the speed of Wave1",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Moderate",
+            "marks": 3
+                },
+        {
+            "question":"What is the speed of Wave2",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Moderate",
+            "marks": 3
+        },
+        {
+            "question":"What is the speed of Wave3",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Moderate",
+            "marks": 3
+        },
+        {
+            "question":"What is the speed of Sound1",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What is the speed of Sound2",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What is the speed of Sound3",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What is the speed of Sound1",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What is the speed of Sound2",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What is the speed of Sound3",
+            "subject": "Physics",
+            "topic": "Waves",
+            "difficulty":"Difficult",
+            "marks": 4
+        }
+
+    ]
+}
