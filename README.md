@@ -12,6 +12,14 @@
 
 <img src="" alt="project-screenshot" width="400" height="400/">
 
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   I have deployed this project and deployment link is provided in Project Demo section
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the Project</p>
