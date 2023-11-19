@@ -1,128 +1,164 @@
 {
     "questions":[
         {
-            "question":"What is the speed of light1",
+            "question":"What is the speed of light1 -  Easy",
             "subject": "Physics",
             "topic": "Waves",
             "difficulty":"Easy",
             "marks": 2
         },
         {
-            "question":"What is the speed of light2",
+            "question":"What are the Newton's 3 laws - Easy",
             "subject": "Physics",
             "topic": "Waves",
             "difficulty":"Easy",
             "marks": 2
         },
         {
-            "question":"What is the speed of light3",
-            "subject": "Physics",
+            "question":"How to init an express project - Easy",
+            "subject": "Express",
+            "topic": "Express",
+            "difficulty":"Easy",
+            "marks": 2
+        },
+        {
+            "question":"Explain about call back functions - Easy ",
+            "subject": "JavaScript",
             "topic": "Waves",
             "difficulty":"Easy",
             "marks": 2
         },
         {
-            "question":"What is the speed of light1",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"Explain about JavaScript promises  - Easy",
+            "subject": "JavaScript",
+            "topic": "Promises",
             "difficulty":"Easy",
             "marks": 2
         },
         {
-            "question":"What is the speed of light2",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"Difference between promise and asynchronous function - Easy",
+            "subject": "JavaScript",
+            "topic": "Promises",
             "difficulty":"Easy",
             "marks": 2
         },
         {
-            "question":"What is the speed of light3",
-            "subject": "Physics",
-            "topic": "Waves",
-            "difficulty":"Easy",
-            "marks": 2
-        },
-        {
-            "question":"What is the speed of Wave1",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"What is the use of Nodemon - Medium",
+            "subject": "NodeJS",
+            "topic": "nodemon",
             "difficulty":"Moderate",
             "marks": 3
                 },
         {
-            "question":"What is the speed of Wave2",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"What is Node.js? Where can you use it? - Medium",
+            "subject": "NodeJS",
+            "topic": "nodemon",
             "difficulty":"Moderate",
             "marks": 3
         },
         {
-            "question":"What is the speed of Wave3",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":" How does Node.js work? - Medium",
+            "subject": "NodeJS",
+            "topic": "nodejs",
             "difficulty":"Moderate",
             "marks": 3
         },
         {
-            "question":"What is the speed of Wave1",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"Why is Node.js Single-threaded? - Medium",
+            "subject": "NodeJS",
+            "topic": "nodejs",
             "difficulty":"Moderate",
             "marks": 3
                 },
         {
-            "question":"What is the speed of Wave2",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"What are the advantages of using promises instead of callbacks? - Medium",
+            "subject": "NodeJS",
+            "topic": "callbacks",
             "difficulty":"Moderate",
             "marks": 3
         },
         {
-            "question":"What is the speed of Wave3",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"How would you define the term I/O? - Medium",
+            "subject": "NodeJS",
+            "topic": "I/O",
             "difficulty":"Moderate",
             "marks": 3
         },
         {
-            "question":"What is the speed of Sound1",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":" How is Node.js most frequently used? - Medium",
+            "subject": "NodeJS",
+            "topic": "callbacks",
+            "difficulty":"Moderate",
+            "marks": 3
+        },
+        {
+            "question":"How would you define the term I/O? - Medium",
+            "subject": "NodeJS",
+            "topic": "I/O",
+            "difficulty":"Moderate",
+            "marks": 3
+        },
+        {
+            "question":"Explain the difference between frontend and backend development? - Hard",
+            "subject": "Web",
+            "topic": "WebDevelopment",
             "difficulty":"Difficult",
             "marks": 4
         },
         {
-            "question":"What is the speed of Sound2",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"What is NPM?",
+            "subject": "NodeJS",
+            "topic": "npm",
             "difficulty":"Difficult",
             "marks": 4
         },
         {
-            "question":"What is the speed of Sound3",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"What are the modules in Node.js? - Hard",
+            "subject": "NodeJS",
+            "topic": "npm",
             "difficulty":"Difficult",
             "marks": 4
         },
         {
-            "question":"What is the speed of Sound1",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"Differentiate between process.nextTick() and setImmediate()? - Hard",
+            "subject": "NodeJS",
+            "topic": "export",
             "difficulty":"Difficult",
             "marks": 4
         },
         {
-            "question":"What is the speed of Sound2",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":" Why is Node.js preferred over other backend technologies like Java and PHP? - Hard",
+            "subject": "NodeJS",
+            "topic": "PHP",
             "difficulty":"Difficult",
             "marks": 4
         },
         {
-            "question":"What is the speed of Sound3",
-            "subject": "Physics",
-            "topic": "Waves",
+            "question":"Which database is more popularly used with Node.js? - Hard",
+            "subject": "NodeJS",
+            "topic": "angular",
+            "difficulty":"Difficult",
+            "marks": 4
+        }
+        ,
+        {
+            "question":"What is the purpose of the module .Exports? - Hard",
+            "subject": "NodeJS",
+            "topic": "export",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What are some of the most commonly used libraries in Node.js? - Hard",
+            "subject": "NodeJS",
+            "topic": "PHP",
+            "difficulty":"Difficult",
+            "marks": 4
+        },
+        {
+            "question":"What are the pros and cons of Node.js? - Hard",
+            "subject": "NodeJS",
+            "topic": "angular",
             "difficulty":"Difficult",
             "marks": 4
         }
