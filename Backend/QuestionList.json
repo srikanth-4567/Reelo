@@ -106,7 +106,7 @@
             "marks": 4
         },
         {
-            "question":"What is NPM?",
+            "question":"What is NPM? - Hard",
             "subject": "NodeJS",
             "topic": "npm",
             "difficulty":"Difficult",
